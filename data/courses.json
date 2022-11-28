@@ -3,6 +3,7 @@
         "_id": "636e2a0ac4ca705d17fe170e",
         "name": "C",
         "category_id": "01",
+        "checkout_id": "001",
         "details": {
             "description": "C is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. By design, C's features cleanly reflect the capabilities of the targeted CPUs",
             "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"
@@ -12,6 +13,7 @@
         "_id": "636e2a0a4e3ab3b9aaaf2c1b",
         "name": "ALGOL",
         "category_id": "01",
+        "checkout_id": "002",
         "details": {
             "description": "ALGOL is a family of imperative computer programming languages originally developed in 1958. ALGOL heavily influenced many other languages and was the standard method for algorithm description used by the Association for Computing Machinery in textbooks and academic sources for more than thirty years",
             "img": "https://upload.wikimedia.org/wikipedia/commons/c/c8/1965_ALGOL-20_A_Language_Manual%2C_Fierst_et_al_-_cover.jpg"
@@ -21,6 +23,7 @@
         "_id": "636e2a0a1eef965cf63ddd5a",
         "name": "Pascal",
         "category_id": "01",
+        "checkout_id": "003",
         "details": {
             "description": "Pascal is an imperative and procedural programming language, designed by Niklaus Wirth as a small, efficient language intended to encourage good programming practices using structured programming and data structuring. It is named in honour of the French mathematician, philosopher and physicist Blaise Pascal.",
             "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/LagrangePAS.png"
@@ -30,6 +33,7 @@
         "_id": "636e2a0a0af9ceb9050c10a4",
         "name": "C++",
         "category_id": "02",
+        "checkout_id": "004",
         "details": {
             "description": "C++ (pronounced 'C plus plus') is a high-level general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language, or 'C with Classes'. The language has expanded significantly over time, and modern C++ now has object-oriented, generic, and functional features in addition to facilities for low-level memory manipulation.",
             "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png"
@@ -39,6 +43,7 @@
         "_id": "636e2a0a24364b28afdb601d",
         "name": "Java",
         "category_id": "02",
+        "checkout_id": "005",
         "details": {
             "description": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let programmers write once, run anywhere (WORA),[17] meaning that compiled Java code can run on all platforms that support Java without the need to recompile.",
             "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png"
@@ -48,6 +53,7 @@
         "_id": "636e2a0a747da29548fea3be",
         "name": "Python",
         "category_id": "02",
+        "checkout_id": "006",
         "details": {
             "description": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming",
             "img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
@@ -57,6 +63,7 @@
         "_id": "636e2a0afa9c84b1e839a5e7",
         "name": "PHP",
         "category_id": "03",
+        "checkout_id": "007",
         "details": {
             "description": "PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993 and released in 1995. The PHP reference implementation is now produced by The PHP Group.",
             "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png"
@@ -66,6 +73,7 @@
         "_id": "636e2a0afa9c84b1e839a5e8",
         "name": "Ruby",
         "category_id": "03",
+        "checkout_id": "008",
         "details": {
             "description": "Ruby is an interpreted, high-level, general-purpose programming language which supports multiple programming paradigms. It was designed with an emphasis on programming productivity and simplicity. In Ruby, everything is an object, including primitive data types.",
             "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/198px-Ruby_logo.svg.png"
@@ -75,6 +83,7 @@
         "_id": "636e2a0afa9c84b1e839a5e9",
         "name": "Perl",
         "category_id": "03",
+        "checkout_id": "009",
         "details": {
             "description": "Perl is a family of two high-level, general-purpose, interpreted, dynamic programming languages. 'Perl' refers to Perl 5, but from 2000 to 2019 it also referred to its redesigned 'sister language', Perl 6, before the latter's name was officially changed to Raku in October 2019",
             "img": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Perl_language_logo.svg/316px-Perl_language_logo.svg.png?20211024000411"
